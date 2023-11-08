@@ -1,16 +1,8 @@
 # nobaddogs
 
-A new Flutter project.
+산책구인앱
 
-## Getting Started
+![noname01](https://github.com/YoungTae0406/noBadDogs/assets/43427176/b2aefcb1-f6d1-490d-8db4-dfba6f0569cf)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
